@@ -1,0 +1,1 @@
+{ "name": "limit-anzeige", "version": "0.1.0", "description": "Zeigt das Nutzungslimit (5h / 7 Tage) dauerhaft in der Statuszeile und per /limit an" }
