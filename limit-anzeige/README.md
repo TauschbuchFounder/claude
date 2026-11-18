@@ -10,7 +10,13 @@ Die Werte stammen aus den Rate-Limit-Angaben der API-Antworten; sie gibt es nur 
 
 ## Installation
 
-Ordner nach `~/.claude/dev-mods/<irgendwas>/limit-anzeige/` kopieren oder starten mit:
+In Claude Code (ab 2.1.275) eingeben:
+
+```
+/plugin install limit-anzeige --marketplace TauschbuchFounder/claude
+```
+
+Oder manuell den Ordner nach `~/.claude/dev-mods/<irgendwas>/limit-anzeige/` kopieren oder starten mit:
 
 ```
 claude --plugin-dir ./limit-anzeige

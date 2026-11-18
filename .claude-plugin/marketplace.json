@@ -1,0 +1,11 @@
+{
+  "name": "tauschbuch-mods",
+  "owner": { "name": "TauschbuchFounder" },
+  "plugins": [
+    {
+      "name": "limit-anzeige",
+      "source": "./limit-anzeige",
+      "description": "Zeigt das Nutzungslimit (5h / 7 Tage) dauerhaft in der Statuszeile und per /limit an"
+    }
+  ]
+}
